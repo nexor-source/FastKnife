@@ -1,0 +1,6 @@
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\bin\Release\MyFirstBeplnExMod.dll
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\bin\Release\MyFirstBeplnExMod.pdb
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Release\MyFirstBeplnExMod.csproj.AssemblyReference.cache
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Release\MyFirstBeplnExMod.csproj.CoreCompileInputs.cache
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Release\MyFirstBeplnExMod.dll
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Release\MyFirstBeplnExMod.pdb

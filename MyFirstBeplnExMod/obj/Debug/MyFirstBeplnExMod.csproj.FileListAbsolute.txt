@@ -1,0 +1,8 @@
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\bin\Debug\MyFirstBeplnExMod.dll
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\bin\Debug\MyFirstBeplnExMod.pdb
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.csproj.AssemblyReference.cache
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.csproj.CoreCompileInputs.cache
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.dll
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.pdb
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\bin\Debug\Unity.Netcode.Runtime.dll
+D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstB.E5EEB93E.Up2Date
