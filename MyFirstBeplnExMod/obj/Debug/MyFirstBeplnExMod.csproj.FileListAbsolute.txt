@@ -6,3 +6,11 @@ D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.dll
 D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.pdb
 D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\bin\Debug\Unity.Netcode.Runtime.dll
 D:\coding\vs\MyFirstBeplnExMod\MyFirstBeplnExMod\obj\Debug\MyFirstB.E5EEB93E.Up2Date
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\bin\Debug\MyFirstBeplnExMod.dll
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\bin\Debug\MyFirstBeplnExMod.pdb
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\bin\Debug\Unity.Netcode.Runtime.dll
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\obj\Debug\MyFirstB.E5EEB93E.Up2Date
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.dll
+C:\Users\ADMIN\Documents\GitHub\FastKnife\MyFirstBeplnExMod\obj\Debug\MyFirstBeplnExMod.pdb

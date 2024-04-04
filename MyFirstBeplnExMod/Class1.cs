@@ -12,7 +12,7 @@ namespace FastKnife
     {
         private const string modGUID = "nexor.FastKnife";
         private const string modName = "FastKnife";
-        private const string modVersion = "0.0.1";
+        private const string modVersion = "0.0.3";
 
         private readonly Harmony harmony = new Harmony(modGUID);
         private static FastKnife Instance;
@@ -27,7 +27,7 @@ namespace FastKnife
             // 使用Debug.Log()方法来将文本输出到控制台
             // Debug.Log("Hello, world!");
             harmony.PatchAll();
-            ((FastKnife)this).Logger.LogInfo((object)"FastKnife 0.0.1 loaded.");
+            ((FastKnife)this).Logger.LogInfo((object)"FastKnife 0.0.3 loaded.");
         }
     }
 }
@@ -48,7 +48,7 @@ namespace FastKnife.Patches.Items
             if (timeAtLastDamageDealtField != null)
             {
                 // 修改私有变量的值为 -0.38
-                timeAtLastDamageDealtField.SetValue(__instance, -0.38f);
+                timeAtLastDamageDealtField.SetValue(__instance, -1.0f);
             }
             else
             {
